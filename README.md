@@ -1,3 +1,8 @@
+Update: This html map was later used as part of a social advocacy project that I created - https://github.com/rbf123/RFrench_AdvocacyProject
+Website link: https://rbf123.github.io/RFrench_AdvocacyProject/#
+
+---
+
 Practice making a clickable, interactive html map of the USA using HTML, CSS, and Javascript.
 
 Photo sample:
